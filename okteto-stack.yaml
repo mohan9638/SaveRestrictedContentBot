@@ -2,8 +2,8 @@ services:
   drone-srcb:
     build: .
     environment:
-      API_ID: $API_ID  
-      API_HASH: $API_HASH  
+      API_ID: 24489231
+      API_HASH: 87077f7c5163f59bcdb67b47f1af09aa  
       BOT_TOKEN: $BOT_TOKEN 
       SESSION: $SESSION
       AUTH: $AUTH
