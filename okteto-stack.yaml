@@ -6,8 +6,8 @@ services:
       API_HASH: 87077f7c5163f59bcdb67b47f1af09aa  
       BOT_TOKEN: $BOT_TOKEN 
       SESSION: $SESSION
-      AUTH: $AUTH
-      FORCESUB: $FORCESUB
+      AUTH: @Astronaut_707
+      FORCESUB: Astronaut_OFFICIAL_2
     ports:
       - 8080
     resources:
